@@ -1,5 +1,16 @@
 # Consumer Shopping Behavior Analysis
 
+## Project Files
+
+* 📊 [Final Presentation](Beacon%20Retail%20Analytics%20%281%29.pdf)
+* 📄 [Project Summary](project-summary.pdf)
+* 🗂️ EER Diagram (shown below)
+
+## Database Design (EER Diagram)
+
+![EER Diagram](EER.png)
+
+
 ## Overview
 
 This project analyzes consumer shopping behavior through a combination of database design, SQL-based analysis, and business-focused reporting. The work was developed across multiple reports and consolidated into a final presentation to highlight both technical design and analytical insights.
